@@ -1,8 +1,10 @@
 # Cybersecurity Notes and CTF Writeups
 
-A learning archive of cybersecurity experiments, notes, and CTF writeups across web security, cryptography, reverse engineering, Linux fundamentals, and exploitation basics.
+A cybersecurity learning archive with notes and CTF writeups across web security, cryptography, reverse engineering, Linux fundamentals, and exploitation basics.
 
 This repo is an archive of practice material, not a polished security product. It is useful as background proof for security curiosity, debugging discipline, and comfort reading low-level or adversarial systems.
+
+My main proof-of-work currently lives in Stateframe, PayRail, AI Systems Notes, and my portfolio. This repo should be treated as secondary context.
 
 ## Contents
 
@@ -22,4 +24,4 @@ Future writeups should keep a consistent structure:
 
 ## Status
 
-Learning archive. Keep this repo unpinned unless it is being used to show cybersecurity foundations alongside stronger Applied AI and product engineering projects.
+Learning archive / secondary repo. Keep this repo unpinned unless it is being used to show cybersecurity foundations alongside stronger Applied AI and product engineering projects.
